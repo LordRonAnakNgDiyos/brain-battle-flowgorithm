@@ -23,4 +23,4 @@ BrainBattle.fprg
 
 **Author:**
 Ronaldo Barbosa
-Prince Bennydict Barrameda
+
